@@ -1,15 +1,23 @@
 {
+  "manifest_version": 2,
+  "version": "1.0",
   "name": "numberbazaar.com recharge dashboard",
   "description": "recharge dashboard monitoring utility for numberbazaar employees",
   "icons": {
     "16": "icon.png"
   },
+  "browser_action": {
+    "default_icon": { // optional
+      "19": "icon.png", // optional
+      "38": "icon.png" // optional
+    },
+    "default_title": "Google Mail", // optional; shown in tooltip
+    "default_popup": "login.html" // optional
+  },
   "background": {
     "scripts": ["background.js", "jquery.js"]
   },
-  "version": "1.0",
   "minimum_chrome_version": "9",
-  "manifest_version": 2,
   "permissions": [
     "https://www.numberbazaar.com/",
     "http://localhost/",
