@@ -4,6 +4,10 @@
 
 
 
+
+
+
+
 This extension for Google Chrome provides a way to search the
 [Drupal API](http://api.drupal.org) from the omnibar.
 
