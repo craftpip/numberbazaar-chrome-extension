@@ -12,3 +12,6 @@ This extension for Google Chrome provides a way to search the
  2. Type your search query and press `Enter`/`Return` to search.
 
  __Suggestions are currently unsupported. See issue #1.__
+
+
+
