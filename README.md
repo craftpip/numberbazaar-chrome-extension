@@ -2,12 +2,6 @@
 [![endorse](https://api.coderwall.com/carwin/endorsecount.png)](https://coderwall.com/carwin)
 
 
-
-
-
-
-
-
 This extension for Google Chrome provides a way to search the
 [Drupal API](http://api.drupal.org) from the omnibar.
 
